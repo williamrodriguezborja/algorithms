@@ -1,0 +1,5 @@
+# bubble Sort algoritm
+
+## Steps
+
+### 
